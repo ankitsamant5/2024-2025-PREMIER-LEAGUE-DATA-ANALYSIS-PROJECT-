@@ -5,7 +5,7 @@ Data analytics project on Premier League 2024/25 player stats. Covers data clean
 
 This project explores Premier League 2024/25 player statistics with the objective of understanding player performance and predicting goal contributions. Using Python, the notebook covers the full data science pipeline — from cleaning and feature engineering to exploratory analysis, correlation studies, and predictive modeling.
 
-# Contents of the Notebook
+Contents of the Notebook
 
 ## Data Cleaning & Preparation
 
